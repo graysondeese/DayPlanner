@@ -8,6 +8,6 @@ This application can be used to manage daily schedules. It is built with JavaScr
 https://graysondeese.github.io/DayPlanner/
 # Screenshot
 ***
-<img src="Assets/pictures/DayPlannerPic.PNG>
+<img src="Assets/pictures/DayPlannerPic.PNG">
 
     
